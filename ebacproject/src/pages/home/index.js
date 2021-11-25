@@ -21,7 +21,7 @@ const Home = () => {
         <main id="main-content" className="home__container">
             <div className="home__column">
                 <h1 className="home__title">São Paulo para todos</h1>
-                <p className="home__text">Nossa missão é facilitar o encontro entre lugares inclusivos e pessoas que buscam alternativas culturais para sair de casa, com a mobilidade que todo cidadão precisa.</p>
+                <p className="home__text">Nossa missão é promover a socialização de pessoas que buscam por opções de entretenimento e precisam de cuidados especiais de acessibilidade, de modo a lista ambientes inclusivos.</p>
                 <p className="home__text">Checamos 10 itens essenciais de acessibilidade em diversos pontos da cidade.</p>
                 <div className="home__pills">
                     {

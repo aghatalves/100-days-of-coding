@@ -1,6 +1,6 @@
 import React from 'react';
 import './style.scss';
-import curatorPhoto from '../../images/foto.jpg';
+import curatorPhoto from '../../images/foto.jpeg';
 
 function CuratorItem() {
 
