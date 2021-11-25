@@ -1,7 +1,7 @@
-import React from "react";
+import React from 'react';
 import './style.scss';
-import logoAcessaBr from '../../images/logo-state.svg'
-import logoEbac from '../../images/logo-ebac.svg'
+import logoAcessaBr from '../../images/logo-state.svg';
+import logoEbac from '../../images/logo-ebac.svg';
 
 
 const Header = () => {
